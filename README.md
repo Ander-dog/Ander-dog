@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Привет, меня зовут Андрей и я начинающий Python разработчик!
 
 <!--
 **Ander-dog/Ander-dog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
